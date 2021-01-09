@@ -1,0 +1,149 @@
+var antipastiText = `
+<div class="row">
+  <div class="column">
+  <h6>BRUSCHETTINE MISTE</h6>
+  <p>Mix van diverse geroosterde broodjes  </p>
+  <br>
+   <h6>BURRATINA CON POMODORI</h6>
+  <p>Burrata met tomaten en balsamico </p>
+   <br>
+   <h6>CAPRESE CON PARMA</h6>
+  <p>Vers gesneden parmaham met buffelmozzerella en verse tomaten. </p>
+   <br>
+   <h6>CARPACCIO POLPO</h6>
+  <p>Carpaccio van octopus met een dressing van citroen</p>
+   <br>
+ </div>
+
+   <div class="column">
+    <h6>TAGLIERE DI SALUMI</h6>
+  <p>Diverse Italiaanse vleessoorten met olijven en grissini.</p>
+  <br>
+   <h6>TRUFFEL TARTAAR</h6>
+  <p>Tartaar van rundvlees met truffelolie, sjalotjes, kwartelei en huisgemaakte truffelmayonaise met toast geserveerd</p>
+   <br>
+   <h6>BURRATINA CON INDIVIA BELGA CIPOLLE CARAMELLATIA</h6>
+  <p>Burrata met gegrilde witlof en gekarameliseerde uien</p>
+   <br>
+   </div>
+</div>
+`;
+
+var insalateText = `
+<div class="row">
+<div class="column">
+ <h6>INSALATA MISTE VERDE</h6>
+  <p>Mix van diverse geroosterde broodjes  </p>
+  <br>
+   <h6>INSALATA CAPRINA</h6>
+  <p>Salade van rucola met gegrilde courgette, geitenkaas en walnoten</p>
+   <br>
+</div>
+<div class="column">
+ <h6>RUCOLA E PARMIGIANO</h6>
+  <p>Mix van diverse geroosterde broodjes  </p>
+  <br>
+   <h6>INSALATA DI VITELLO</h6>
+  <p>Salade net haricots verts, olijven, gebraden kalfsfricandeau en pijnboompitten</p>
+   <br>
+</div>
+
+</div>
+`;
+
+var secondiText = `
+<div class="row">
+<div class="column">
+     <h6>ZUPPA DI PESCE</h6>
+  <p>Vissoep met zwaardvis, calamaris, baby octopus, vongole, mosselen en garnalen</p>
+  <br>
+</div>
+<div class="column">
+     <h6>ENTRECOTE</h6>
+  <p>Entrecote met aardappels, rozemarijn en een kleine salade.</p>
+  <br>
+</div>
+
+
+</div>
+
+`;
+
+var pastaText = `
+<div class="row">
+<div class="column">
+ <h6>ARRABBIATA</h6>
+  <p>Tomatensaus met chili knoflook en parmezaanse kaas</p>
+  <br>
+   <h6>GNOCCHI GORGONZOLA E NOCI</h6>
+  <p>Gnocchi met gorgonzola en walnoten</p>
+   <br>
+   <h6>PORCINI E TARTUFO BIANCO</h6>
+  <p>Een romige saus met witte truffel, eekhoorntjesbrood en parmezaanse kaas</p>
+   <br>
+   <h6>STUFATO DI CINGHIALE</h6>
+  <p>Toscaanse gestoofd wild zwijn met parmezaanse kaas</p>
+   <br>
+</div>
+<div class="column">
+ <h6>BOLOGNESE</h6>
+  <p>Huisgemaakte gehaktsaus en parmezaanse kaas</p>
+  <br>
+   <h6>PESTO</h6>
+  <p>Huisgemaakte pestosaus met verse tomaten, sperziebonen en parmezaanse kaas</p>
+   <br>
+   <h6>BURRATA</h6>
+  <p>Crème van burrata met tomatensaus, olijven, verse tomaten en basilicum</p>
+   <br>
+   <h6>RAVIOLI CON PORCINI E TARTUFO</h6>
+  <p>Ravioli met eekhoorntjesbrood en truffel, geserveerd met parmezaan en balsamico</p>
+   <br>
+</div>
+
+</div>
+
+`;
+
+var risottoText = `
+<div class="row">
+<div class="column">
+     <h6>GAMBERI E LIMONE</h6>
+  <p>Gamba’s met citroen</p>
+  <br>
+</div>
+<div class="column">
+     <h6>BOSCAIOLO</h6>
+  <p>Salsiccia (Italiaanse worstjes) met eekhoorntjesbrood en parmezaanse kaas</p>
+  <br>
+</div>
+
+
+</div>
+`;
+
+var dessertText = `
+<div class="row">
+   <div class="column">
+    <h6>TIRAMISU</h6>
+  <p>Huisgemaakte tiramisu</p>
+  <br>
+   <h6>CHEESECAKE</h6>
+  <p>Huisgemaakte cheesecake met frambozen saus</p>
+   <br>
+   <h6>BÔNET</h6>
+  <p>Pudding van amaretti koekjes, caramel en cacao</p>
+   <br>
+   </div>
+    <div class="column">
+    <h6>PANNACOTTA CON COULIS DI FRUTTA</h6>
+  <p>Huisgemaakte vanille slagroompudding met verse vruchtencoulis</p>
+  <br>
+   <h6>SCROPPINO</h6>
+  <p>Huisgemaakte cheesecake met frambozen saus</p>
+   <br>
+   <h6>TAGLIERE DI FORMAGGI</h6>
+  <p>Vijf soorten Italiaanse kazen met druiven, walnoten en grissini</p>
+   <br>
+   </div>
+   </div>
+`;
